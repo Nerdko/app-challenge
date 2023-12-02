@@ -1,0 +1,26 @@
+{
+  "name": "@nerdko/app-challenge",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nerdko/app-challenge.git"
+  },
+  "keywords": [
+    "Nerdko",
+    "challenge",
+    "cucumber",
+    "webdriverio",
+    "appium"
+  ],
+  "author": "Nyussim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nerdko/app-challenge/issues"
+  },
+  "homepage": "https://github.com/Nerdko/app-challenge#readme"
+}
