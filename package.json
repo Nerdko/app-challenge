@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/Nerdko/app-challenge/issues"
   },
-  "homepage": "https://github.com/Nerdko/app-challenge#readme"
+  "homepage": "https://github.com/Nerdko/app-challenge#readme",
+  "devDependencies": {
+    "appium": "^2.2.2",
+    "appium-uiautomator2-driver": "^2.34.2",
+    "webdriverio": "^8.24.6"
+  }
 }
